@@ -1,0 +1,37 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.18" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/drawable-anydpi/ic_add_story.xml" value="0.18" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.168" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/drawable-anydpi/ic_search_light.xml" value="0.168" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/drawable-anydpi/ic_story_view.xml" value="0.18" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/drawable/button_background.xml" value="0.18" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/drawable/button_black.xml" value="0.18" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/drawable/edit_text_background.xml" value="0.18" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/activity_add_story.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/activity_comments.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/activity_edit_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/activity_followers.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/activity_login.xml" value="0.1956521739130435" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/activity_login_new.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/activity_post.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/fotos_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/fragment_home.xml" value="0.13272543059777103" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/fragment_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/fragment_search.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/layout/post_item.xml" value="0.1956521739130435" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/menu/bottom_navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/ars/New folder/Insta_Clone-master/Insta_Clone-master/app/src/main/res/menu/post_menu.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
